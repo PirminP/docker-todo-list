@@ -14,7 +14,7 @@
   | 3   | List all containers, filtering by name `01container` |
   | 4   | Run the `cat /etc/os-release` command on container `01container` without attaching to it |
   | 5   | Remove container `01container` |
-  | 6   | Text        |
+  | 6   | Realize download of `nginx` image with version `1.21.3-alpine` |
   | 7   | Title       |
   | 8   | Text        |
   | 9   | Title       |
