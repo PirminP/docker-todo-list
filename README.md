@@ -9,8 +9,8 @@
 
   | Command     | Description |
   | ----------- | ----------- |
-  | 1   | Creating a container using `alpine` image version `3.12` interactively w/o execution, naming it `01container`     |
-  | 2   | Text        |
+  | 1   | Creating a container using `alpine` image version `3.12` interactively w/o execution, naming it `01container` |
+  | 2   | Initialize container `01container` |
   | 3   | Title       |
   | 4   | Text        |
   | 5   | Title       |
