@@ -7,7 +7,7 @@
 ### Commands
 * The following docker commands are used and can be found in `./docker/docker-commands`:
 
-| Command  | Description  |
-| -------- | ------------ |
-| 1 |      | Creat container |
-|| ||
+  | Command  | Description  |
+  | -------- | ------------ |
+  | 1 |      | Creat container |
+  || ||
