@@ -13,7 +13,7 @@
   | 2   | Initialize container `01container` |
   | 3   | List all containers, filtering by name `01container` |
   | 4   | Run the `cat /etc/os-release` command on container `01container` without attaching to it |
-  | 5   | Title       |
+  | 5   | Remove container `01container` |
   | 6   | Text        |
   | 7   | Title       |
   | 8   | Text        |
