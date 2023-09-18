@@ -1,6 +1,6 @@
 # Project Docker Todo List
 
-#### Based on front-end, back-end & its tests a container is used to creat a connection between these three segments
+#### Based on front-end, back-end & its tests a container is used to creat a connection between these three segments.
 
 * Designed by using Docker
 
