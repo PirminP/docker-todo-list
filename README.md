@@ -20,4 +20,4 @@
   | 9   | Generate a build from the back-end Dockerfile, naming the image `todobackend` |
   | 10  | Generate a build from the front-end Dockerfile, naming the image `todofrontend` |
   | 11  | Generate a build from the tests Dockerfile, naming the image `todotests` |
-  | 12  | Text        |
+  | 12  | Create a docker-compose for communication between the `back-end`, `front-end` and `tests` |
