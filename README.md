@@ -17,7 +17,7 @@
   | 6   | Realize download of `nginx` image with version `1.21.3-alpine` |
   | 7   | Initialize a new container with the `nginx` image version `1.21.3-alpine`: in background, naming it `02images` and running on port 3000 |
   | 8   | Stop container `02images` |
-  | 9   | Title       |
+  | 9   | Generate a build from the back-end Dockerfile, naming the image `todobackend` |
   | 10  | Text        |
   | 11  | Title       |
   | 12  | Text        |
