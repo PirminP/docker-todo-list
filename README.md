@@ -18,6 +18,6 @@
   | 7   | Initialize a new container with the `nginx` image version `1.21.3-alpine`: in background, naming it `02images` and running on port 3000 |
   | 8   | Stop container `02images` |
   | 9   | Generate a build from the back-end Dockerfile, naming the image `todobackend` |
-  | 10  | Generate a build from the front-end Dockerfile, naming the image `todofrontend`       |
-  | 11  | Title       |
+  | 10  | Generate a build from the front-end Dockerfile, naming the image `todofrontend` |
+  | 11  | Generate a build from the tests Dockerfile, naming the image `todotests` |
   | 12  | Text        |
