@@ -15,8 +15,8 @@
   | 4   | Run the `cat /etc/os-release` command on container `01container` without attaching to it |
   | 5   | Remove container `01container` |
   | 6   | Realize download of `nginx` image with version `1.21.3-alpine` |
-  | 7   | Title       |
-  | 8   | Text        |
+  | 7   | Initialize a new container with the `nginx` image version `1.21.3-alpine`: in background, naming it `02images` and running on port 3000 |
+  | 8   | Stop container `02images` |
   | 9   | Title       |
   | 10  | Text        |
   | 11  | Title       |
